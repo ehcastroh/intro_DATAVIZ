@@ -7,7 +7,7 @@
      width="100%" />
      
      
-# **DATA-X:** <br>  m410 - SHALLOW NEURAL NETWORKS; AN INTRODUCTION TO TENSORFLOW V.2
+# **DATA-X:** <br>  m130 - INTRODUCTION TO VISUAL PRINCIPLES USING MATPLOTLIB AND SEABORN
 
 <br>
 
@@ -16,17 +16,17 @@
 
 
 
-**Author List (in no particular order):** [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/), [Rajarathnam Balakrishnan](https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135/), [Ikhlaq Sidhu](https://ikhlaq-sidhu.com/), [Debbie Yuen](http://www.debbiecyuen.me/), and [Alexander Fred-Ojala](https://www.linkedin.com/in/alexanderfo/) 
+**Author List (in no particular order):** [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/), [Debbie Yuen](http://www.debbiecyuen.me/), and [Alexander Fred-Ojala](https://www.linkedin.com/in/alexanderfo/) 
 
-**About (TL/DR):** Tensorflow (TF) is an open-source library used for dataflow, differentiable programming, symbolic math ,and machine learning applications such as deep learning neural networks. TF's flexible architecture allows for easy deployment across varied processing platforms. 
+**About (TL/DR):** TODO TODO
 
-**Learning Goal(s):** This notebook covers advanced topics in machine learning. However, it does not require any prior knowledge in machine learning. The goal of this notebook is to teach a user how to deploy a TF model, as well as to provide the user guidance on how to tackle the more nuanced topics. 
+**Learning Goal(s):** The goal of this series of notebooks is to provide users with the necessary foundations for building and undertanding current state of the art visualizations. An additional aim is to provide users with an understanding of both the theory and techniques of various visualization paradigms. Finally, this series of notebooks seeks to provide sufficient knowledge to users so that they may build & evaluate various visualization systems, read & discuss visualization literature, and successfully convey visual information.
 
-**Associated Materials:** To ease the learning curve, we encourage the user of this notebook to view the resources section on the main JupyterLab, and/or review the [Data-X Fundamentals](https://github.com/scetx/datax/tree/master/01-data-x-fundamentals) repo.
+**Associated Materials:** None
 
-**Keywords (Tags):** tensorflow, tensor-flow, tensorflow-tutorial, deep-learning, deep-learning-with-python, neural-networks, data-x, uc-berkeley-engineering 
+**Keywords (Tags):** data-visualization, matplotlib, matplotlib-tutorial, seaborn, seaborn-tutorial, visualizations, visual-storytelling, data-x, uc-berkeley-engineering 
 
-**Prerequisite Knowledge:** (1) Python, (2) NumPy, (3) Pandas, (4) Linear Algebra, (5) Bash 
+**Prerequisite Knowledge:** (1) Python, (2) Pandas 
 
 **Target User:** Data scientists, applied machine learning engineers, and developers
 
@@ -43,7 +43,7 @@
      
 ### **CONTENT**   
 
-  - m410_shallow_neural_networks_introduction_to_tensorflow -- Overview of TensorFlow syntax, operations, and execution.
+  - m130_Intro_visual_principles_using_matplotlib_seaborn -- Introduction to visualization principles, Matplotlib, and Seaborn
   - assets/homeworks/   -- Contains several exercises to help you master the material.
 
 #### **I. TENSORS AND OPERATIONS**
@@ -103,4 +103,3 @@ You've completed the introduction to TensorFlow V.2, and once can assume that yo
      width="100%" />
 
 <hr style="border: 2px solid#003262;" />
-# intro_DATAVIZ
