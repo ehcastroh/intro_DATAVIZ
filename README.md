@@ -1,105 +1,83 @@
-<hr style="border: 8px solid#003262;" />
 
-<img src="assets/content/datax_logos/DataX_blue_wide_logo.png"
-     alt="Data-X Logo"
+
+<img src="./images/DataX_blue_wide_logo.png"
+     alt="Predli Logo"
      align="center" 
      style="align:center" 
      width="100%" />
      
      
-# **DATA-X:** <br>  m130 - INTRODUCTION TO VISUAL PRINCIPLES USING MATPLOTLIB AND SEABORN
-
-<br>
-
-
-<br>
+# **@Data-X:** <br> Introduction to Data Types, Data Visualization &amp; Visual Storytelling.
 
 
 
-**Author List (in no particular order):** [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/), [Debbie Yuen](http://www.debbiecyuen.me/), and [Alexander Fred-Ojala](https://www.linkedin.com/in/alexanderfo/) 
+**Author list:** [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/) 
 
-**About (TL/DR):** TODO TODO
+**Learning Goal(s):** The goal of this series of notebooks is to provide users with the necessary foundations for building and understanding current state of the art visualizations. An additional aim is to provide users with an understanding of both the theory and techniques of various visualization paradigms. Finally, this series of notebooks seeks to provide sufficient knowledge to users so that they may build & evaluate various visualization systems, read & discuss visualization literature, and successfully convey visual information.
 
-**Learning Goal(s):** The goal of this series of notebooks is to provide users with the necessary foundations for building and undertanding current state of the art visualizations. An additional aim is to provide users with an understanding of both the theory and techniques of various visualization paradigms. Finally, this series of notebooks seeks to provide sufficient knowledge to users so that they may build & evaluate various visualization systems, read & discuss visualization literature, and successfully convey visual information.
+**Keywords (Tags):** data-visualization, matplotlib, matplotlib-tutorial, seaborn, seaborn-tutorial, visualizations, visual-storytelling, data-x, uc-berkeley-engineering
 
-**Associated Materials:** None
-
-**Keywords (Tags):** data-visualization, matplotlib, matplotlib-tutorial, seaborn, seaborn-tutorial, visualizations, visual-storytelling, data-x, uc-berkeley-engineering 
-
-**Prerequisite Knowledge:** (1) Python, (2) Pandas 
+**Prerequisite Knowledge:** (1) Python, (2) Pandas
 
 **Target User:** Data scientists, applied machine learning engineers, and developers
 
 **Copyright:** Content curation has been used to expedite the creation of the following learning materials. Credit and copyright belong to the content creators used in facilitating this content. Please support the creators of the resources used by frequenting their sites, and social media.
 
+<br>
 
-<hr style="border: 4px solid#003262;" />
+<hr style="border: 4px solid#053565;" />
 
-<img src="assets/content/images/tensorflow_thumbnail-01.png"
-     alt="TF thumbnail"
+### **About**
+
+The following notebooks were created for UC Berkeley's Data-X. They are intended to provide a rapid introduction to common python visualization libraries, as well as introduce the user to more advanced visualization libraries and engines. The notebooks are structured into 2 parts.
+
+  - Visualization Intro 1 -- Fundamental overview of data classification theory and how it relates to visualizations in practice.
+  - Visualization Intro 2 -- Explores various plotting libraries, introduces more advanced visualization libraries and state-of-the-art visualization paradigms.
+
+
+<br>
+
+#### **I. Introduction to Data Types and Visualization Principles.**
+
+<img src="./images/Smith_Data_Levels_Numerical.png"
+     alt="Data Type and Encoding"
      align="center" 
      style="align:center" 
-     width="40%"/>
+     width="30%"/>
      
-### **CONTENT**   
-
-  - m130_Intro_visual_principles_using_matplotlib_seaborn -- Introduction to visualization principles, Matplotlib, and Seaborn
-  - assets/homeworks/   -- Contains several exercises to help you master the material.
-
-#### **I. TENSORS AND OPERATIONS**
-
-<img src="assets/content/images/pandas-19.png"
-     alt="Simple Architecture"
-     align="center" 
-     style="align:center" 
-     width="40%"/>
-     
-    1) PART 1.1: TENSORFLOW SETUP
-    2) PART 1.2: TENSORBOARD SETUP
-    3) PART 1.3: TENSORFLOW TENSORS
-    4) PART 1.4: TENSORFLOW OPERATIONS
-    5) PART 1.5 (OPTIONAL): EAGER EXECUTION
+    1) Principles of Visualization: Data Types and Their Connection to Visualizations.
+    2) Overview of Matplotlib
+    3) Overview of Seaborn
+    I) Additional References and Resources
+    II) Visualization Galleries
     
-#### **II. TENSORFLOW GRAPHS AND EXECUTIONS**
+<br>
 
-<img src="assets/content/images/pandas-16.png"
-     alt="Simple Architecture"
+#### **II. Comparative Visualizations, and Advanced Visualizations Using Plotly and Altair.**
+
+<img src="./images/grammar_of_graphics_1_3stack.png"
+     alt="Data Type and Encoding"
      align="center" 
      style="align:center" 
      width="40%"/>
      
-    1) PART 2.1: TENSORFLOW COMPUTATION FUNCTION -- \@tf.function
-
-#### **III. TENSORFLOW LINEAR REGRESSION (OPTIONAL)**
-
-<img src="assets/content/images/pandas-16.png"
-     alt="Simple Architecture"
-     align="center" 
-     style="align:center" 
-     width="40%"/>
-     
-    1) PART 3.1: PROBLEM DEFINITION AND SETUP
-    2) PART 3.2: MODEL
-    3) PART 3.3: GENERALIZATION AND PREDICTIONS    
+    0) Brief Overview of Data Types.
+    1) A Brief Tour of Python's Entry-Level Visualization Landscape.
+    2) Two Dynamic Visualization Libraries, Using Real-World Data. 
+    3) One Plot: Static, Dynamic, and Interactive.
+    I) Additional References and Resources
     
-#### **IV. WRAP UP AND NEXT STEPS**
+<br>
 
-You've completed the introduction to TensorFlow V.2, and once can assume that you are ready to get things done with your new knowledge. Visit the [**Data-X website**](https://datax.berkeley.edu/) to learn how to use Tensorflow to tackle various deep learning problems, or use the following links to some topics of interest:
-
-> [TODO (m--): url needed]() TODO TODO TODO.
-
-> [TODO (m--): url needed]() TODO TODO TODO.
-
-> [TODO (m--): url needed]() TODO TODO TODO.
-
-
-
-
-
-<img src="assets/content/datax_logos/DataX_icon_wide_logo.png"
-     alt="Data-X Icon Logo"
+<img src="./images/DataX_icon_wide_logo.png"
+     alt="Predli Logo"
      align="center" 
      style="align:center" 
      width="100%" />
+     
+<hr style="border: 2px solid#053565;" />
 
-<hr style="border: 2px solid#003262;" />
+
+
+
+
